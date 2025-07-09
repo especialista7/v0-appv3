@@ -1,5 +1,7 @@
+"use client"
+
 import CheckoutPage from "../checkout-page"
 
-export default function Page() {
+export default function SyntheticV0PageForDeployment() {
   return <CheckoutPage />
 }
